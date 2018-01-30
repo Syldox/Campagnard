@@ -216,7 +216,8 @@ p{
 
 footer {
     /* just for demo */
-    background-color: #080808;
+    /* background-color: #080808; */
+    background-color: #333333 !important;
     color: #fff;
     /*border-top: 1px solid #E7E7E7;*/
     border-color: #101010;
