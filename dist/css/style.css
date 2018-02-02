@@ -5,7 +5,7 @@
 
 .logo{
 
-
+  
   /*  padding: 5px;*/
   /*border-radius: 50%;*/
   -webkit-transition: -webkit-transform .8s ease-in-out;
@@ -67,8 +67,8 @@
 
 .logo:hover {
   -webkit-transform: rotate(360deg);
-  /* transform: rotate(360deg); */
-  transform: rotate(450deg);
+  transform: rotate(360deg);
+  /* transform: rotate(450deg); */
 }
 
 
@@ -298,6 +298,11 @@ footer {
   border-radius: 300px;
 }
   */
+
+
+  .featured{
+    margin-top: 85px;
+  }
 
 
 
