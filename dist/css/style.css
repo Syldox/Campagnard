@@ -281,8 +281,21 @@ footer {
 
 }
 
-.koff { 
-  width: 360px;
+.koff1 { 
+  /* width: 360px; */
+  width: 380px;
+  margin-top: -18px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 300px;
+  padding: 10px;
+  
+}
+
+
+.koff2 { 
+  /* width: 360px; */
+  width: 520px;
   margin-top: -18px;
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
